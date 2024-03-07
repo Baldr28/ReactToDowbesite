@@ -63,6 +63,7 @@ function TodoProvider({ children }) {
         totalTodos,
         searchValue,
         setsearchValue,
+        TodoComplete,
         searchedTodo,
         completedTodos,
         TodoDelete,openModal,
