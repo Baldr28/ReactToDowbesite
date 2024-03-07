@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/ReactToDowbesite/static/css/main.cc889b13.css",
+    "main.js": "/github.io/ReactToDowbesite/static/js/main.e0caab88.js",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/github.io/ReactToDowbesite/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
+    "index.html": "/github.io/ReactToDowbesite/index.html",
+    "main.cc889b13.css.map": "/github.io/ReactToDowbesite/static/css/main.cc889b13.css.map",
+    "main.e0caab88.js.map": "/github.io/ReactToDowbesite/static/js/main.e0caab88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc889b13.css",
+    "static/js/main.e0caab88.js"
+  ]
+}
